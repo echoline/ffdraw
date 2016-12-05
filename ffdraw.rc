@@ -1,0 +1,3 @@
+#!/bin/rc
+
+linux -r /usr/eli/linuxemu3/mroot/ /root/ffdraw/ffdraw /9^`{pwd}^/^$*
